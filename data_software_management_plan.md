@@ -1,0 +1,4 @@
+Data / Software Management Plan
+===============================
+
+Our project will not produce new primary data; rather, it will analyze existing datasets that are already hosted in the cloud. We will, however, produce extensive software products, both via contributions to existing open-source repositories (e.g. Xarray, and Dask) and as new standalone packages (e.g. APIs). In all cases the software will be hosted and version-controlled on the Github website. All code will be released with an open-source license. We will follow industry-standard best practices for software development, employing version control, continuous integration and testing, and comprehensive documentation. DOIs will be generated for all software releases via Zenodo.
