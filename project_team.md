@@ -1,21 +1,28 @@
 Project Team
 ============
 
-## University of Washington (lead)
+#### [University of Washington](https://www.washington.edu) (lead)
 
 - Anthony Arendt (PI)
 - Rob Fatland (co-I)
 - Scott Henderson (co-I)
+- Amanda Tan
 
-## National Center for Atmospheric Research
+#### [National Center for Atmospheric Research (NCAR)](https://ncar.ucar.edu)
 
-- Ethan Gutmann (PI)
-- Joe Hamman (co-I)
+- Joe Hamman (PI)
+- Ethan Gutmann (co-I)
 
-## Anaconda, Inc.
 
-- Matt Rocklin (PI)
+#### [NVIDIA RAPIDS](https://developer.nvidia.com/rapids)
 
-## Element 84
+- Matt Rocklin (co-I)
+
+#### [Element 84](https://www.element84.com)
 
 - Dan Pilone (PI)
+- Andrew Pawlowksi
+
+#### [Anaconda](https://www.anaconda.com)
+
+- Tom Augspurger
