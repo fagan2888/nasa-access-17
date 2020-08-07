@@ -1,7 +1,7 @@
 ## Publications
 1. Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese, 2019: Open Source Frameworks for Earth Data Science are Blossoming. EOS, In revision.
 1. Eynard-Bontemps, G., R Abernathey, J. Hamman, A. Ponte, W. Rath, 2019: The Pangeo Big Data Ecosystem and its use at CNES. In P. Soille, S. Loekken, and S. Albani, Proc. of the 2019 conference on Big Data from Space (BiDS’2019), 49-52. EUR 29660 EN, Publications Office of the European Union, Luxembourg. doi:10.2760/848593.
-1. Hamman, J., N. Robinson, and R. Abernathey, 2019: Science needs to rethink how it interacts with big data. Nature, In revision.
+1. Hamman, J., N. Robinson, and R. Abernathey, 2020: Seven Principles for Effective Scientific Big-Data Systems. PNAS, In review ([preprint](https://arxiv.org/abs/1908.03356)).
 
 ## Presentations
 1. Abernathey R., J. Hamman, A. Miles (2018). Beyond netCDF: Cloud Native Climate Data with Zarr and Xarray (Invited), Abstract IN33A-06 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
@@ -11,10 +11,12 @@
 1. Hamman, J., R. Abernathey, C. Holdgraph, Y. Panda, M. Rocklin (2018). Pangeo and Binder: Scalable, shareable and reproducible scientific computing environments for the geosciences (Invited), Abstract IN53A-03 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
 1. Hamman, J., R. Abernathey, S. Henderson (2018). Pangeo: Scalable Geoscience Tools in Python—Xarray, Dask, and Jupyter, Abstract WS22 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
 1. Hamman, J. (2018). The Pangeo ecosystem for data proximate analytics. Presented at the 2018 Workshop on developing Python frameworks for earth system sciences, ECMWF, Reading, UK 30 Oct 2018.
-1. Hamman, J. A. Banihirwe (2019). Pangeo: Scalable Geoscience Tools in Python — Xarray, Dask, and Jupyter. Clinic presented at the 2019 CSDMS Meeting, Boulder, CO, 21-23 Mar 2019.
-1. Hamman, J. R. Abernathey (2019). Handle "Big" Larger-than-memory Data. Clinic presented at the 2019 Oceanhackweek, Seattle, WA, 26-30 Aug 2019.
+1. Hamman, J., A. Banihirwe (2019). Pangeo: Scalable Geoscience Tools in Python — Xarray, Dask, and Jupyter. Clinic presented at the 2019 CSDMS Meeting, Boulder, CO, 21-23 Mar 2019.
+1. Hamman, J., R. Abernathey (2019). Handle "Big" Larger-than-memory Data. Clinic presented at the 2019 Oceanhackweek, Seattle, WA, 26-30 Aug 2019.
+1. Hamman, J., A. Arendt R. Fatland, D. Pilone, T. Augspurger, R. Signell, S. Henderson, A. Tan, A. Pawloski, M. Hanson, R. Abernathey (2019). The Pangeo Platform: a community-driven open-source big data environment. AGU, San Fransisco, CA 9 Dec 2019.
+1. Hamman, J. NASA Brown Bag: Interactive, Scalable, and Cloud Native - How the open source Pangeo Project laying the groundwork for a new era of scientific computing, Online, 29 May 2020.
 1. Hanson, M. (2019). How Open Communities are Revolutionizing Science. Keynote presented at FOSS4G 2019, Bucharest, Romania, 26-30 Aug 2019. ([slides](https://media.ccc.de/v/bucharest-471-how-open-is-revolutionizing-science)).
-1. Henderson, S., Arendt, A., Tan, A., Pawlowski, A. (2019). Using Pangeo JupyterHubs to work with large public datasets. Workshop presented at 2019 ESIP Summer Meeting, Tacoma, WA, 16-19 July 2019. 
+1. Henderson, S., Arendt, A., Tan, A., Pawlowski, A. (2019). Using Pangeo JupyterHubs to work with large public datasets. Workshop presented at 2019 ESIP Summer Meeting, Tacoma, WA, 16-19 July 2019.
 1. Henderson, S.T., (2018) “Regional interferometric synthetic aperture radar (InSAR) snowpack measurements” Boise State Geosciences Department Seminar.
 1. Henderson, S.T., (2019) “Moving satellite radar processing and analysis to the Cloud”. Invited talk at UNAVCO ISCE Short Course.
 1. Henderson, S.T. (2018) “Scalable InSAR processing and analysis in the Cloud with applications to geohazard monitoring in the Pacific Northwest” (AGU Fall Meeting)
@@ -30,3 +32,6 @@
 1. 2019 Pangeo Community Meeting: Organized and hosted by team members Arendt, Hamman, Henderson, Tan, and Fatland.
 1. 2019 ESDSWG: Attended by team members Arendt and Hamman. 
 1. 2019 UW Hackweeks (Ocean, Geo): Organized by team members Arendt, Tan, and Henderson and incorporating elements from this project.
+1. 2019 AGU Fall Meeting: Pangeo - Hands on with JupyterHub and Open-Source Python Tools for Scalable Analysis of Big Data in the Geosciences (SCIWS12) hosted by Scott Henderson, Amanda Tan Lehr, Joe Hamman, and Jessica Scheick.
+1. 2020 SciPy: Xarray Tutorial, Hamman, J., R, Abernathey, S. Hoyer, and D. Cherian.
+1. 2020 NASA ML4EO Workshop: Attended by J. Hamman.
