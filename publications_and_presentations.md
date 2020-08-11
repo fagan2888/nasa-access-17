@@ -5,7 +5,9 @@
 
 ## Presentations
 1. Abernathey R., J. Hamman, A. Miles (2018). Beyond netCDF: Cloud Native Climate Data with Zarr and Xarray (Invited), Abstract IN33A-06 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
+1. Abernathey R., Augspurger T., Durant M., Hamman J. (2020). Multi-Cloud workflows with Pangeo and Dask Gateway. Presented at EarthCube 2020 notebook gallery, 18-20 June, 2020. https://github.com/earthcube2020/ec20_augspurger_etal.
 1. Arendt, A., J. Hamman, M. Rocklin, A. Tan, D.R. Fatland, J. Joughin, E.D. Gutmann, L. Setiawan, S. Henderson (2018). Pangeo: Community tools for analysis of Earth Science Data in the Cloud, Abstract IN54A-05 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
+1. Augspurger, T. (2020). Pangeo's Cloud Clusters, presented at ESIP 2020 Summer Meeting, 23 July, 2020. ([video](https://youtu.be/SAFPDwMW9aI?t=3269)).
 1. Hamman, J., A. Arendt, D. Pilone, S. Henderson, R. Fatland, A. Tan, A. Pawloski (2019). Community tools for analysis of NASA Earth Observing System Data in the Cloud. Poster presented at the 2019 ESDSWG Meeting, Anapolis, MA, 19-21 Mar 2019.
 1. Hamman, J., M. Rocklin (2018). Pangeo: A community-driven effort for Big Data geoscience, seminar presented at the UK Met Office, Exeter, UK 1 Nov 2018.
 1. Hamman, J., R. Abernathey, C. Holdgraph, Y. Panda, M. Rocklin (2018). Pangeo and Binder: Scalable, shareable and reproducible scientific computing environments for the geosciences (Invited), Abstract IN53A-03 presented at 2018 Fall Meeting, AGU, Washington, DC 10-14 Dec 2018.
